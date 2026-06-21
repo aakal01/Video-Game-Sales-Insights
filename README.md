@@ -26,6 +26,7 @@ Discussed in the PPT.
 # Conclusion 
 This project provided valuable insights within sales market in the gaming industry, helping to identify areas to target potiental customers and develop more effective global marketing and product strategies. 
 
-for questions or further information, please contact: 
+For questions or further information, please contact: 
+
 LinkedIn: linkedin.com/in/abdalla-akal
 
