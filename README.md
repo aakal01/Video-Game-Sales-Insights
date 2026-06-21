@@ -7,10 +7,10 @@ An end-to-end video game sales project from data cleaning, analysis, and visuali
 This project takes a comprehensive look at video game sales, analyzing performance across regions, genres, platforms, publishers, and time periods. The outcome is an interactive dashboard that makes it easy to explore trends and draw meaningful insights. As well as creating a powerpoint as a demo for reporting the insights to the stakeholders.
 
 # Tools Used
-Microsoft Excel
-Pivot Tables
-Power Query
-Power BI
+Microsoft Excel,
+Pivot Tables,
+Power Query,
+Power BI,
 Microsoft PowerPoint.
 
 # Recommendations
