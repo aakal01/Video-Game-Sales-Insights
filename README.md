@@ -28,5 +28,7 @@ This project provided valuable insights within sales market in the gaming indust
 
 For questions or further information, please contact: 
 
+
+
 LinkedIn: linkedin.com/in/abdalla-akal
 
